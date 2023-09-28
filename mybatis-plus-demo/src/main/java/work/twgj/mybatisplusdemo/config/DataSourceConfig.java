@@ -13,7 +13,6 @@ import javax.sql.DataSource;
  * @date 2023/9/21 14:43
  */
 @Configuration
-@EnableTransactionManagement
 public class DataSourceConfig {
 
     @Bean(name = "localDataSource")

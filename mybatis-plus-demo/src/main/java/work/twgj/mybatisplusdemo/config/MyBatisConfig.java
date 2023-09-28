@@ -6,6 +6,7 @@ import org.mybatis.spring.mapper.MapperScannerConfigurer;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import javax.sql.DataSource;
@@ -15,18 +16,22 @@ import javax.sql.DataSource;
  * @date 2023/9/21 11:32
  */
 @Configuration
-@EnableTransactionManagement
 public class MyBatisConfig {
 
+    @Bean(name = "localDataSourceTransactionManager")
+    public DataSourceTransactionManager localDataSourceTransactionManager(@Qualifier("localDataSource") DataSource dataSource){
+        return new DataSourceTransactionManager(dataSource);
+    }
+
     @Bean(name = "localSqlSessionFactory")
-    public SqlSessionFactory wxuserSqlSessionFactory(@Qualifier("localDataSource") DataSource dataSource) throws Exception {
+    public SqlSessionFactory localSqlSessionFactory(@Qualifier("localDataSource") DataSource dataSource) throws Exception {
         MybatisSqlSessionFactoryBean sessionFactoryBean = new MybatisSqlSessionFactoryBean();
         sessionFactoryBean.setDataSource(dataSource);
         return sessionFactoryBean.getObject();
     }
 
     @Bean(name = "localMapperScannerConfigurer")
-    public MapperScannerConfigurer wxuserMapperScannerConfigurer() {
+    public MapperScannerConfigurer localMapperScannerConfigurer() {
         MapperScannerConfigurer scannerConfigurer = new MapperScannerConfigurer();
         // 指定数据源的SqlSessionFactory
         scannerConfigurer.setSqlSessionFactoryBeanName("localSqlSessionFactory");

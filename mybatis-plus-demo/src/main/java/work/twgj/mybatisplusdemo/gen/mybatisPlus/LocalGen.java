@@ -30,7 +30,7 @@ public class LocalGen {
     public static void main(String[] args) {
         // 要生成的数据库表名
         List<String> tableNames = Arrays.asList(
-            "t_sys_log","t_student"
+            "t_student"
         );
         // 生成代码
         create(tableNames).execute();

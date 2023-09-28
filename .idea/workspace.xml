@@ -2,56 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_2_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_jdbc_ojdbc8_23_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_database_nls_orai18n_23_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/DataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/gen/mybatisPlus/LocalGen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/DataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/entity/StudentEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/entity/StudentEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/entity/SysLogEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/gen/mybatisPlus/LocalGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/gen/mybatisPlus/LocalGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/mapper/SysLogMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/resources/mappers/SysLogMapper.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +43,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-plus-demo/doc" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -95,13 +59,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.twgj.mybatisplusdemo.common" />
       <recent name="work.twgj.mybatisplusdemo.gen.mybatisPlus" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\mybatis-plus-demo\doc" />
       <recent name="D:\myproject\spring-demo\mybatis-plus-demo\src\main\java\work\twgj\mybatisplusdemo\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalGen">
+  <component name="RunManager" selected="Spring Boot.MybatisPlusDemoApplication">
     <configuration name="LocalGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="work.twgj.mybatisplusdemo.gen.mybatisPlus.LocalGen" />
       <module name="mybatis-plus-demo" />
@@ -138,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695887539610</updated>
-      <workItem from="1695887542234" duration="1700000" />
+      <workItem from="1695887542234" duration="6318000" />
     </task>
     <servers />
   </component>
@@ -146,26 +112,66 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1695890116567">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1695890116566" />
+    <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1695889843114">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1695889843114" />
     <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1695887582595">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1695887582595" />
-    <state width="1663" height="275" key="GridCell.Tab.0.bottom" timestamp="1695889147739">
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom" timestamp="1695893926216">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1695889147739" />
-    <state width="1663" height="275" key="GridCell.Tab.0.center" timestamp="1695889147739">
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926216" />
+    <state width="1663" height="339" key="GridCell.Tab.0.center" timestamp="1695893926216">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1695889147739" />
-    <state width="1663" height="275" key="GridCell.Tab.0.left" timestamp="1695889147739">
+    <state width="1663" height="339" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926216" />
+    <state width="1663" height="339" key="GridCell.Tab.0.left" timestamp="1695893926216">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1695889147739" />
-    <state width="1663" height="275" key="GridCell.Tab.0.right" timestamp="1695889147739">
+    <state width="1663" height="339" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926216" />
+    <state width="1663" height="339" key="GridCell.Tab.0.right" timestamp="1695893926216">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1695889147739" />
+    <state width="1663" height="339" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926216" />
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
+    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1695893926133">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1695893926133" />
     <state x="334" y="84" key="SettingsEditor" timestamp="1695887588022">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
