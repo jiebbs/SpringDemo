@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695887539610</updated>
-      <workItem from="1695887542234" duration="6437000" />
+      <workItem from="1695887542234" duration="6710000" />
     </task>
     <servers />
   </component>
