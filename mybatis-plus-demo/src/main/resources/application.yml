@@ -67,6 +67,7 @@ spring:
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#mybatis-sql打印
 logging:
   level:
     work:
