@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis-demo/src/main/java/work/twgj/redisdemo/config/RedisConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -50,33 +66,51 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aop-demo/src/main/java/work/twgj/aopdemo/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis-demo/doc" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.twgj.redisdemo.config" />
+      <recent name="work.twgj.redisdemo.controller" />
       <recent name="work.twgj.aopdemo.common" />
       <recent name="work.twgj.aopdemo.mybatisPlus" />
       <recent name="work.twgj.mybatisplusdemo.common" />
-      <recent name="work.twgj.mybatisplusdemo.gen.mybatisPlus" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\redis-demo\doc" />
+      <recent name="D:\myproject\spring-demo\redis-demo\src\main\java\work\twgj\redisdemo" />
       <recent name="D:\myproject\spring-demo\aop-demo\src\main\java\work\twgj\aopdemo\utils" />
       <recent name="D:\myproject\spring-demo\aop-demo\src\main\java\work\twgj\aopdemo\config" />
       <recent name="D:\myproject\spring-demo\mybatis-plus-demo\doc" />
-      <recent name="D:\myproject\spring-demo\mybatis-plus-demo\src\main\java\work\twgj\mybatisplusdemo\config" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.AopDemoApplication">
+  <component name="RunManager" selected="Spring Boot.RedisDemoApplication">
     <configuration name="LocalGen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="work.twgj.aopdemo.mybatisPlus.LocalGen" />
       <module name="aop-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="work.twgj.aopdemo.mybatisPlus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalGen (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.twgj.redisdemo.mybatisPlus.LocalGen" />
+      <module name="redis-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.redisdemo.mybatisPlus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +145,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RedisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.redisdemo.RedisDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalGen (2)" />
         <item itemvalue="Application.LocalGen (1)" />
         <item itemvalue="Application.LocalGen" />
       </list>
@@ -129,7 +171,8 @@
       <option name="presentableId" value="Default" />
       <updated>1695887539610</updated>
       <workItem from="1695887542234" duration="7147000" />
-      <workItem from="1696727427213" duration="3290000" />
+      <workItem from="1696727427213" duration="3371000" />
+      <workItem from="1697513910249" duration="5499000" />
     </task>
     <servers />
   </component>
@@ -137,73 +180,84 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1695890116567">
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1697525180053">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1695890116566" />
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1697525180053" />
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1695889843114">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1695889843114" />
-    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1696728017704">
+    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1697514177156">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1696728017704" />
-    <state width="1663" height="339" key="GridCell.Tab.0.bottom" timestamp="1696730740931">
+    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1697514177156" />
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom" timestamp="1697526809673">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.0.center" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809673" />
+    <state width="1663" height="339" key="GridCell.Tab.0.center" timestamp="1697526809673">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.0.left" timestamp="1696730740930">
+    <state width="1663" height="339" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809673" />
+    <state width="1663" height="339" key="GridCell.Tab.0.left" timestamp="1697526809673">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740930" />
-    <state width="1663" height="339" key="GridCell.Tab.0.right" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809673" />
+    <state width="1663" height="339" key="GridCell.Tab.0.right" timestamp="1697526809673">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809673" />
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1697526809593">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809593" />
+    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1697526809588">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
-    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1696730740931">
+    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809588" />
+    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1697526809593">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1696730740931" />
+    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697526809593" />
     <state x="334" y="84" key="SettingsEditor" timestamp="1695887588022">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1695887588022" />
-    <state x="241" y="211" key="new project wizard" timestamp="1696727824598">
+    <state x="241" y="211" key="new project wizard" timestamp="1697514499213">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1696727824598" />
+    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1697514499213" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/redis-demo/src/main/java/work/twgj/redisdemo/config/RedisConfig.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
