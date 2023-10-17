@@ -11,10 +11,12 @@
         <module name="aop-demo" />
         <module name="spring-demo" />
         <module name="mybatis-plus-demo" />
+        <module name="jackson-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aop-demo" target="8" />
+      <module name="jackson-demo" target="8" />
       <module name="mybatis-plus-demo" target="8" />
       <module name="redis-demo" target="8" />
       <module name="spring-demo" target="17" />
@@ -23,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="aop-demo" options="-parameters" />
+      <module name="jackson-demo" options="-parameters" />
       <module name="mybatis-plus-demo" options="-parameters" />
       <module name="redis-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
