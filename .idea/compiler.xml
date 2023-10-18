@@ -10,6 +10,7 @@
         <module name="redis-demo" />
         <module name="aop-demo" />
         <module name="spring-demo" />
+        <module name="testing-demo" />
         <module name="mybatis-plus-demo" />
         <module name="jackson-demo" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="mybatis-plus-demo" target="8" />
       <module name="redis-demo" target="8" />
       <module name="spring-demo" target="17" />
+      <module name="testing-demo" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,6 +31,7 @@
       <module name="mybatis-plus-demo" options="-parameters" />
       <module name="redis-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
+      <module name="testing-demo" options="-parameters" />
     </option>
   </component>
 </project>

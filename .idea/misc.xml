@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/aop-demo/pom.xml" />
         <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
         <option value="$PROJECT_DIR$/jackson-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/testing-demo/pom.xml" />
       </list>
     </option>
   </component>
