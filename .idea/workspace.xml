@@ -2,15 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_2_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson2_fastjson2_extension_2_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_2_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail-demo/src/main/java/work/twgj/maildemo/controller/MailController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aop-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/aop-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jackson-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jackson-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/testing-demo/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +84,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/project/dev/B_202309181706 互联网第三期-保单列表接入诚e赔" />
+    <property name="last_opened_file_path" value="D:/project/dev/B_202309181706 互联网第三期-保单列表接入诚e赔/fndwechat_dev" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,49 +95,43 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.twgj.maildemo.common" />
+      <recent name="work.twgj.actuatordemo.mybatisPlus" />
+      <recent name="work.twgj.actuatordemo.common" />
       <recent name="work.twgj.testingdemo.common" />
       <recent name="work.twgj.testingdemo.controller" />
-      <recent name="work.twgj.testingdemo.service.impl" />
-      <recent name="work.twgj.testingdemo.service" />
-      <recent name="work.twgj.testingdemo.mybatisPlus" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\actuator-demo\doc" />
+      <recent name="D:\myproject\spring-demo\actuator-demo\src\main\java\work\twgj\actuatordemo" />
+      <recent name="D:\myproject\spring-demo\swagger3-demo\doc" />
+      <recent name="D:\myproject\spring-demo\swagger3-demo\src\main\java\work\twgj\swagger3demo" />
       <recent name="D:\myproject\spring-demo\testing-demo\src\main\java\work\twgj\testingdemo" />
-      <recent name="D:\myproject\spring-demo\testing-demo\doc" />
-      <recent name="D:\myproject\spring-demo\redis-demo\doc" />
-      <recent name="D:\myproject\spring-demo\redis-demo\src\main\java\work\twgj\redisdemo" />
-      <recent name="D:\myproject\spring-demo\aop-demo\src\main\java\work\twgj\aopdemo\utils" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentControllerTest.getSession">
-    <configuration name="EchoControllerMockTest.echo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testing-demo" />
+  <component name="RunManager" selected="Spring Boot.MailDemoApplication">
+    <configuration name="LocalGen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.twgj.actuatordemo.mybatisPlus.LocalGen" />
+      <module name="actuator-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work.twgj.testingdemo.*" />
+          <option name="PATTERN" value="work.twgj.actuatordemo.mybatisPlus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="work.twgj.testingdemo" />
-      <option name="MAIN_CLASS_NAME" value="work.twgj.testingdemo.EchoControllerMockTest" />
-      <option name="METHOD_NAME" value="echo" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoControllerNoMockitoTest.echo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testing-demo" />
+    <configuration name="LocalGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.twgj.swagger3demo.mybatisPlus.LocalGen" />
+      <module name="swagger3-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work.twgj.testingdemo.*" />
+          <option name="PATTERN" value="work.twgj.swagger3demo.mybatisPlus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="work.twgj.testingdemo" />
-      <option name="MAIN_CLASS_NAME" value="work.twgj.testingdemo.EchoControllerNoMockitoTest" />
-      <option name="METHOD_NAME" value="echo" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,6 +184,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ActuatorDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.actuatordemo.ActuatorDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AopDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="aop-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.aopdemo.AopDemoApplication" />
@@ -169,6 +201,13 @@
     <configuration name="JacksonDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jackson-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.jacksondemo.JacksonDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mail-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.maildemo.MailDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -187,6 +226,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Swagger2DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger2-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.swagger2demo.Swagger2DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swagger3DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swagger3-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.swagger3demo.Swagger3DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Swgger2DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="swgger2-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.swgger2demo.Swgger2DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestingDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="testing-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.testingdemo.TestingDemoApplication" />
@@ -196,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalGen (1)" />
+        <item itemvalue="Application.LocalGen" />
         <item itemvalue="JUnit.StudentControllerTest.getSession" />
         <item itemvalue="JUnit.StudentControllerTest.saveStudent" />
         <item itemvalue="JUnit.StudentControllerTest.getUser" />
-        <item itemvalue="JUnit.EchoControllerNoMockitoTest.echo" />
-        <item itemvalue="JUnit.EchoControllerMockTest.echo" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +279,12 @@
       <workItem from="1697513910249" duration="12068000" />
       <workItem from="1697591243401" duration="828000" />
       <workItem from="1697592091850" duration="186000" />
-      <workItem from="1697592295222" duration="17611000" />
+      <workItem from="1697592295222" duration="18922000" />
+      <workItem from="1697677875615" duration="8199000" />
+      <workItem from="1697764009996" duration="7003000" />
+      <workItem from="1698044833069" duration="3672000" />
+      <workItem from="1698111458435" duration="796000" />
+      <workItem from="1698117109643" duration="3257000" />
     </task>
     <servers />
   </component>
@@ -243,70 +308,74 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1695889843114" />
-    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1697618672613">
+    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1698119195828">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1697618672613" />
-    <state width="1663" height="275" key="GridCell.Tab.0.bottom" timestamp="1697621289036">
+    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1698119195828" />
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom" timestamp="1698142342554">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697621289036" />
-    <state width="1663" height="275" key="GridCell.Tab.0.center" timestamp="1697621289036">
+    <state width="1663" height="339" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342554" />
+    <state width="1663" height="339" key="GridCell.Tab.0.center" timestamp="1698142342554">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697621289036" />
-    <state width="1663" height="275" key="GridCell.Tab.0.left" timestamp="1697621289036">
+    <state width="1663" height="339" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342554" />
+    <state width="1663" height="339" key="GridCell.Tab.0.left" timestamp="1698142342554">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697621289036" />
-    <state width="1663" height="275" key="GridCell.Tab.0.right" timestamp="1697621289036">
+    <state width="1663" height="339" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342554" />
+    <state width="1663" height="339" key="GridCell.Tab.0.right" timestamp="1698142342554">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="275" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697621289036" />
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1697620686961">
+    <state width="1663" height="339" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342554" />
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697620686961" />
-    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1697620686960">
+    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697620686960" />
-    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1697620686960">
+    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697620686960" />
-    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1697620686960">
+    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697620686960" />
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1697617349507">
+    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1697617349507" />
-    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1697617349507">
+    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1697617349507" />
-    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1697617349506">
+    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1697617349506" />
-    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1697617349507">
+    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1698142342470">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1697617349507" />
-    <state x="334" y="84" key="SettingsEditor" timestamp="1697592397162">
+    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698142342470" />
+    <state x="334" y="84" key="SettingsEditor" timestamp="1697679261034">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1697592397162" />
+    <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1697679261034" />
     <state x="516" y="242" width="674" height="534" key="find.popup" timestamp="1697591749015">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="516" y="242" width="674" height="534" key="find.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1697591749015" />
-    <state x="241" y="211" key="new project wizard" timestamp="1697591590770">
+    <state x="241" y="211" key="new project wizard" timestamp="1698052957869">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1697591590770" />
+    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1698052957869" />
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1698141885962">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1698141885962" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

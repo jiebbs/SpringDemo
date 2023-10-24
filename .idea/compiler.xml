@@ -7,30 +7,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="swagger2-demo" />
+        <module name="swgger2-demo" />
         <module name="redis-demo" />
         <module name="aop-demo" />
         <module name="spring-demo" />
         <module name="testing-demo" />
+        <module name="mail-demo" />
         <module name="mybatis-plus-demo" />
+        <module name="swagger3-demo" />
+        <module name="actuator-demo" />
         <module name="jackson-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="actuator-demo" target="8" />
       <module name="aop-demo" target="8" />
       <module name="jackson-demo" target="8" />
+      <module name="mail-demo" target="8" />
       <module name="mybatis-plus-demo" target="8" />
       <module name="redis-demo" target="8" />
       <module name="spring-demo" target="17" />
+      <module name="swagger2-demo" target="8" />
+      <module name="swagger3-demo" target="8" />
       <module name="testing-demo" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="actuator-demo" options="-parameters" />
       <module name="aop-demo" options="-parameters" />
       <module name="jackson-demo" options="-parameters" />
+      <module name="mail-demo" options="-parameters" />
       <module name="mybatis-plus-demo" options="-parameters" />
       <module name="redis-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
+      <module name="swagger2-demo" options="-parameters" />
+      <module name="swagger3-demo" options="-parameters" />
       <module name="testing-demo" options="-parameters" />
     </option>
   </component>
