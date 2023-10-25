@@ -8,13 +8,30 @@ spring:
     name: mail-demo
   #邮件配置
   mail:
+    # 配置smtp服务器地址
     host: smtp.qq.com
-    username: xxx@qq.com
-    password: xxx
+    # 配置smtp服务器的端口
+    port: 587
+    # 配置邮箱用户名
+    username: from@qq.com
+    # 配置密码(邮箱-设置-账号-开启smtp配置获得)
+    password: 123456
+    # 配置默认编码
+    default-encoding: UTF-8
     properties:
       mail:
         stmp:
+          # 配置ssl加密工厂
+          socketFactoryClass: javax.net.ssl.SSLSocketFactory
+          # 配置开启 DEBUG 模式
+          debug: true
           auth: true
           starttls:
             enable: true
             required: true
+  #thymeleft配置
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+
