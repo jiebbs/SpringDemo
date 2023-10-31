@@ -1,0 +1,43 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: admin-client-demo
+  #springboot admin client登录密码
+  boot:
+    admin:
+      client:
+        url: http://localhost:9001/admin-server
+        username: admin
+        password: admin
+        # 为了允许 server 访问 client 的 web 端点，我们在注册时需要提供 client 的帐号与密码
+        instance:
+          metadata:
+            user.name: ${spring.security.user.name}
+            user.password: ${spring.security.user.password}
+  security:
+    user:
+      name: admin
+      password: admin
+# 配置 actuator
+management:
+  endpoints:
+    jmx:
+      exposure:
+        exclude: "*"
+    web:
+      exposure:
+        include: "*"
+        # 排除关闭服务端点
+        exclude:
+          - shutdowm
+
+
+  endpoint:
+    health:
+      # 只有用户登录才显示 health 详情
+      show-details: when_authorized
+    shutdown:
+      # 禁用关闭服务端点
+      enabled: true

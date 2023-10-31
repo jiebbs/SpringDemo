@@ -1,0 +1,17 @@
+2023-10-27 09:49:32.538 [main] INFO  work.twgj.logbackdemo.LogbackDemoApplication - Starting LogbackDemoApplication on jiebbs with PID 17948 (D:\myproject\spring-demo\logback-demo\target\classes started by jiebb in D:\myproject\spring-demo) 
+2023-10-27 09:49:32.539 [main] INFO  work.twgj.logbackdemo.LogbackDemoApplication - No active profile set, falling back to default profiles: default 
+2023-10-27 09:49:33.107 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http) 
+2023-10-27 09:49:33.114 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"] 
+2023-10-27 09:49:33.114 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat] 
+2023-10-27 09:49:33.114 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33] 
+2023-10-27 09:49:33.187 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/logback-demo] - Initializing Spring embedded WebApplicationContext 
+2023-10-27 09:49:33.187 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 619 ms 
+2023-10-27 09:49:33.322 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor' 
+2023-10-27 09:49:33.432 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"] 
+2023-10-27 09:49:33.451 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path '/logback-demo' 
+2023-10-27 09:49:33.451 [main] INFO  work.twgj.logbackdemo.LogbackDemoApplication - Started LogbackDemoApplication in 1.372 seconds (JVM running for 2.396) 
+2023-10-27 09:49:37.337 [http-nio-9000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/logback-demo] - Initializing Spring DispatcherServlet 'dispatcherServlet' 
+2023-10-27 09:49:37.338 [http-nio-9000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet' 
+2023-10-27 09:49:37.342 [http-nio-9000-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms 
+2023-10-27 09:49:37.355 [http-nio-9000-exec-2] INFO  work.twgj.logbackdemo.controller.LogbackController - 这是日志 
+2023-10-27 09:57:30.441 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor' 

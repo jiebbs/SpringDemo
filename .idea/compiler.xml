@@ -7,30 +7,43 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="swagger2-demo" />
-        <module name="swgger2-demo" />
-        <module name="redis-demo" />
-        <module name="aop-demo" />
         <module name="spring-demo" />
+        <module name="springboot-admin-demo" />
+        <module name="linux-demo" />
+        <module name="springboot-admin-client-demo" />
+        <module name="xss-demo" />
+        <module name="swgger2-demo" />
+        <module name="springboot-devtools-demo" />
+        <module name="aop-demo" />
         <module name="testing-demo" />
-        <module name="mail-demo" />
-        <module name="mybatis-plus-demo" />
-        <module name="swagger3-demo" />
         <module name="actuator-demo" />
         <module name="jackson-demo" />
+        <module name="logback-demo" />
+        <module name="swagger2-demo" />
+        <module name="redis-demo" />
+        <module name="war-demo" />
+        <module name="mail-demo" />
+        <module name="swagger3-demo" />
+        <module name="mybatis-plus-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="actuator-demo" target="8" />
       <module name="aop-demo" target="8" />
       <module name="jackson-demo" target="8" />
+      <module name="linux-demo" target="8" />
+      <module name="logback-demo" target="8" />
       <module name="mail-demo" target="8" />
       <module name="mybatis-plus-demo" target="8" />
       <module name="redis-demo" target="8" />
       <module name="spring-demo" target="17" />
-      <module name="swagger2-demo" target="8" />
+      <module name="springboot-admin-client-demo" target="8" />
+      <module name="springboot-admin-demo" target="8" />
+      <module name="springboot-devtools-demo" target="8" />
       <module name="swagger3-demo" target="8" />
       <module name="testing-demo" target="8" />
+      <module name="war-demo" target="8" />
+      <module name="xss-demo" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,13 +51,19 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="aop-demo" options="-parameters" />
       <module name="jackson-demo" options="-parameters" />
+      <module name="linux-demo" options="-parameters" />
+      <module name="logback-demo" options="-parameters" />
       <module name="mail-demo" options="-parameters" />
       <module name="mybatis-plus-demo" options="-parameters" />
       <module name="redis-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
-      <module name="swagger2-demo" options="-parameters" />
+      <module name="springboot-admin-client-demo" options="-parameters" />
+      <module name="springboot-admin-demo" options="-parameters" />
+      <module name="springboot-devtools-demo" options="-parameters" />
       <module name="swagger3-demo" options="-parameters" />
       <module name="testing-demo" options="-parameters" />
+      <module name="war-demo" options="-parameters" />
+      <module name="xss-demo" options="-parameters" />
     </option>
   </component>
 </project>

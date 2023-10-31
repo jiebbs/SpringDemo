@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/war-demo" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -12,6 +15,13 @@
         <option value="$PROJECT_DIR$/swagger3-demo/pom.xml" />
         <option value="$PROJECT_DIR$/actuator-demo/pom.xml" />
         <option value="$PROJECT_DIR$/mail-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin-client-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-devtools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/logback-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/war-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/linux-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/xss-demo/pom.xml" />
       </list>
     </option>
   </component>

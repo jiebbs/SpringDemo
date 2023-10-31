@@ -1,0 +1,2 @@
+1.进入pom.xml，packaging中生命war
+2.打开右侧maven，执行clean,再执行package，最后可以在模块的target文件夹中找到war包
