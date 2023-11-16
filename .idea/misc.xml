@@ -22,6 +22,12 @@
         <option value="$PROJECT_DIR$/war-demo/pom.xml" />
         <option value="$PROJECT_DIR$/linux-demo/pom.xml" />
         <option value="$PROJECT_DIR$/xss-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/exception-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/filter-interceptor-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/auto-config-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ioc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-application-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-validator-demo/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,11 @@
+#initializer
+org.springframework.context.ApplicationContextInitializer=\
+work.twgj.springapplicationdemo.initializer.HelloApplicationContextInitializer
+
+#listener
+org.springframework.context.ApplicationListener=\
+work.twgj.springapplicationdemo.listener.ContextClosedEventListener
+
+#runListener
+org.springframework.boot.SpringApplicationRunListener=\
+work.twgj.springapplicationdemo.listener.HelloSpringApplicationRunListener

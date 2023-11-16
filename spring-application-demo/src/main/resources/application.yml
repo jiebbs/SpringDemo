@@ -1,0 +1,8 @@
+server:
+  port: 9000
+  servlet:
+    context-path: /spirng-application-demo
+
+spring:
+  application:
+    name: spirng-application-demo

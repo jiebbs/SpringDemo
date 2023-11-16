@@ -2,43 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/war_demo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/war_demo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_client_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_cloud_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_server_ui_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_client_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_codecentric_spring_boot_admin_starter_server_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_dreamlu_mica_core_2_7_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_dreamlu_mica_xss_2_7_17_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_16_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/impl/StudentServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
@@ -75,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -84,7 +59,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/linux-demo/doc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hibernate-validator-demo/src/main/java/work/twgj/hibernatevalidatordemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -94,22 +69,28 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="work.twgj.springapplicationdemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\hibernate-validator-demo\src\main\java\work\twgj\hibernatevalidatordemo" />
+      <recent name="D:\myproject\spring-demo\spring-application-demo\doc" />
+      <recent name="D:\myproject\spring-demo\spring-application-demo\src\main\resources" />
+      <recent name="D:\myproject\spring-demo\filter-interceptor-demo\doc" />
+      <recent name="D:\myproject\spring-demo\linux-demo\doc" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.twgj.filterinterceptordemo.filter" />
       <recent name="work.twgj.xssdemo.common" />
       <recent name="work.twgj.springbootdevtoolsdemo.common" />
       <recent name="work.twgj.maildemo.common" />
       <recent name="work.twgj.actuatordemo.mybatisPlus" />
-      <recent name="work.twgj.actuatordemo.common" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\myproject\spring-demo\linux-demo\doc" />
-      <recent name="D:\myproject\spring-demo\springboot-devtools-demo\doc" />
-      <recent name="D:\myproject\spring-demo\springboot-admin-client-demo\doc" />
-      <recent name="D:\myproject\spring-demo\springboot-admin-demo\doc" />
-      <recent name="D:\myproject\spring-demo\mail-demo\src\main\resources\static\img" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\exception-demo\src\main\resources\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.XssDemoApplication">
+  <component name="RunManager" selected="Spring Boot.HibernateValidatorDemoApplication">
     <configuration name="LocalGen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="work.twgj.actuatordemo.mybatisPlus.LocalGen" />
       <module name="actuator-demo" />
@@ -119,67 +100,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LocalGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work.twgj.swagger3demo.mybatisPlus.LocalGen" />
-      <module name="swagger3-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.swagger3demo.mybatisPlus.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentControllerTest.getSession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.testingdemo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="work.twgj.testingdemo.controller" />
-      <option name="MAIN_CLASS_NAME" value="work.twgj.testingdemo.controller.StudentControllerTest" />
-      <option name="METHOD_NAME" value="getSession" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentControllerTest.getUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.testingdemo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="work.twgj.testingdemo.controller" />
-      <option name="MAIN_CLASS_NAME" value="work.twgj.testingdemo.controller.StudentControllerTest" />
-      <option name="METHOD_NAME" value="getUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentControllerTest.saveStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testing-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.testingdemo.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="work.twgj.testingdemo.controller" />
-      <option name="MAIN_CLASS_NAME" value="work.twgj.testingdemo.controller.StudentControllerTest" />
-      <option name="METHOD_NAME" value="saveStudent" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,6 +114,41 @@
     <configuration name="AopDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="aop-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.aopdemo.AopDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoConfigDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auto-config-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.autoconfigdemo.AutoConfigDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exception-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.exceptiondemo.ExceptionDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterInterceptorDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="filter-interceptor-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.filterinterceptordemo.FilterInterceptorDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibernateValidatorDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hibernate-validator-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.hibernatevalidatordemo.HibernateValidatorDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IocDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ioc-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.iocdemo.IocDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -236,6 +191,65 @@
     <configuration name="RedisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="redis-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.redisdemo.RedisDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication$ApplicationResource (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-application-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication$ApplicationResource (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-application-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication$ApplicationResource (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-application-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication$ApplicationResource" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-application-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringApplicationDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-application-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,11 +319,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (3)" />
+        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (2)" />
+        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (1)" />
+        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource" />
         <item itemvalue="Application.LocalGen (1)" />
-        <item itemvalue="Application.LocalGen" />
-        <item itemvalue="JUnit.StudentControllerTest.getSession" />
-        <item itemvalue="JUnit.StudentControllerTest.saveStudent" />
-        <item itemvalue="JUnit.StudentControllerTest.getUser" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +353,19 @@
       <workItem from="1698308179388" duration="7025000" />
       <workItem from="1698369164435" duration="4531000" />
       <workItem from="1698659504669" duration="1104000" />
-      <workItem from="1698714634126" duration="10825000" />
+      <workItem from="1698714634126" duration="11507000" />
+      <workItem from="1698982063847" duration="3233000" />
+      <workItem from="1698992070185" duration="49000" />
+      <workItem from="1698992135104" duration="8347000" />
+      <workItem from="1699341731593" duration="2051000" />
+      <workItem from="1699414743583" duration="5300000" />
+      <workItem from="1699492333086" duration="17814000" />
+      <workItem from="1699578280629" duration="1420000" />
+      <workItem from="1699838015987" duration="5742000" />
+      <workItem from="1699923810186" duration="2585000" />
+      <workItem from="1700044089672" duration="53000" />
+      <workItem from="1700100989746" duration="5060000" />
+      <workItem from="1700114790254" duration="3155000" />
     </task>
     <servers />
   </component>
@@ -355,66 +381,78 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="93" y="93" width="1521" height="833" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1697618268970" />
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1698739093722">
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1700106330804">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1698739093722" />
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1700106330804" />
+    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1700105526113">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1700105526113" />
+    <state x="552" y="368" width="603" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1699498356530">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="552" y="368" width="603" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1019@0.0.1707.1019" timestamp="1699498356530" />
+    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1700105527779">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1707.1019@0.0.1707.1019" timestamp="1700105527779" />
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1695889843114">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1695889843114" />
-    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1698739408526">
+    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1699933050519">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1698739408526" />
-    <state width="1663" height="339" key="GridCell.Tab.0.bottom" timestamp="1698740212167">
+    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1699933050519" />
+    <state width="1663" height="399" key="GridCell.Tab.0.bottom" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212167" />
-    <state width="1663" height="339" key="GridCell.Tab.0.center" timestamp="1698740212167">
+    <state width="1663" height="399" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.0.center" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212167" />
-    <state width="1663" height="339" key="GridCell.Tab.0.left" timestamp="1698740212167">
+    <state width="1663" height="399" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.0.left" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212167" />
-    <state width="1663" height="339" key="GridCell.Tab.0.right" timestamp="1698740212167">
+    <state width="1663" height="399" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.0.right" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212167" />
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.1.bottom" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.1.center" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.1.center" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.1.left" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.1.left" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.1.right" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.1.right" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.2.bottom" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.2.center" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.2.center" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.2.left" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.2.left" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
-    <state width="1663" height="339" key="GridCell.Tab.2.right" timestamp="1698740212079">
+    <state width="1663" height="399" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.2.right" timestamp="1700118166734">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="339" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1698740212079" />
+    <state width="1663" height="399" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
     <state x="441" y="175" key="Registry" timestamp="1698313413095">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -423,18 +461,22 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1698722580736" />
-    <state x="516" y="242" width="674" height="534" key="find.popup" timestamp="1697591749015">
+    <state x="575" y="251" width="540" height="524" key="StructurePopup" timestamp="1699512749994">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="516" y="242" width="674" height="534" key="find.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1697591749015" />
-    <state x="241" y="211" key="new project wizard" timestamp="1698715156293">
+    <state x="575" y="251" width="540" height="524" key="StructurePopup/0.0.1707.1019@0.0.1707.1019" timestamp="1699512749994" />
+    <state x="516" y="242" width="674" height="534" key="find.popup" timestamp="1699516558042">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1698715156293" />
-    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1698313103631">
+    <state x="516" y="242" width="674" height="534" key="find.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1699516558042" />
+    <state x="241" y="211" key="new project wizard" timestamp="1700106864739">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1698313103631" />
+    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1700106864739" />
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1700107112424">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="516" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1700107112424" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -443,6 +485,11 @@
           <url>file://$PROJECT_DIR$/redis-demo/src/main/java/work/twgj/redisdemo/config/RedisConfig.java</url>
           <line>35</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hibernate-validator-demo/src/main/java/work/twgj/hibernatevalidatordemo/handler/GlobalExceptionHandler.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

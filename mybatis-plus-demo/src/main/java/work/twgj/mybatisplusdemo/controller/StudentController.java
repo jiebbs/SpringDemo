@@ -1,9 +1,11 @@
 package work.twgj.mybatisplusdemo.controller;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
 import work.twgj.mybatisplusdemo.common.ApiResponse;
+import work.twgj.mybatisplusdemo.common.PageData;
 import work.twgj.mybatisplusdemo.entity.StudentEntity;
 import work.twgj.mybatisplusdemo.service.StudentService;
 
@@ -47,5 +49,14 @@ public class StudentController {
     public ApiResponse<StudentEntity> detail(@PathVariable(value = "sno")String sno){
         StudentEntity entity = studentService.getStudentBySno(sno);
         return ApiResponse.success(entity);
+    }
+
+    @GetMapping("/pageList")
+    public ApiResponse<PageData<StudentEntity>> pageList(
+            @RequestParam("sno")String sno,
+            @RequestParam("pageNo")Integer pageNo,
+            @RequestParam("pageSize")Integer pageSize){
+        Page<StudentEntity> pageList = studentService.pageList(sno,pageNo,pageSize);
+        return ApiResponse.success(new PageData(pageList));
     }
 }

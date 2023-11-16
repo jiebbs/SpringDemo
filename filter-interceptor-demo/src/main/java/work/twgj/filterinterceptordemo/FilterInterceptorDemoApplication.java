@@ -1,0 +1,13 @@
+package work.twgj.filterinterceptordemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FilterInterceptorDemoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FilterInterceptorDemoApplication.class, args);
+    }
+
+}

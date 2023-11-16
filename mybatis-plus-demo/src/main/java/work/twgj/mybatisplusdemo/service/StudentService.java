@@ -1,5 +1,6 @@
 package work.twgj.mybatisplusdemo.service;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import work.twgj.mybatisplusdemo.entity.StudentEntity;
 
 /**
@@ -15,4 +16,6 @@ public interface StudentService {
     int delete(String sno);
 
     StudentEntity getStudentBySno(String sno);
+
+    Page<StudentEntity> pageList(String sno,Integer pageNo,Integer pageSize);
 }

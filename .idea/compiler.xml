@@ -9,17 +9,23 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-demo" />
         <module name="springboot-admin-demo" />
-        <module name="linux-demo" />
+        <module name="filter-interceptor-demo" />
         <module name="springboot-admin-client-demo" />
+        <module name="linux-demo" />
+        <module name="spring-application-demo" />
         <module name="xss-demo" />
         <module name="swgger2-demo" />
+        <module name="exception-demo" />
         <module name="springboot-devtools-demo" />
         <module name="aop-demo" />
+        <module name="hibernate-validator-demo" />
         <module name="testing-demo" />
         <module name="actuator-demo" />
-        <module name="jackson-demo" />
+        <module name="ioc-demo" />
+        <module name="auto-config-demo" />
         <module name="logback-demo" />
         <module name="swagger2-demo" />
+        <module name="jackson-demo" />
         <module name="redis-demo" />
         <module name="war-demo" />
         <module name="mail-demo" />
@@ -30,12 +36,18 @@
     <bytecodeTargetLevel>
       <module name="actuator-demo" target="8" />
       <module name="aop-demo" target="8" />
+      <module name="auto-config-demo" target="8" />
+      <module name="exception-demo" target="8" />
+      <module name="filter-interceptor-demo" target="8" />
+      <module name="hibernate-validator-demo" target="8" />
+      <module name="ioc-demo" target="8" />
       <module name="jackson-demo" target="8" />
       <module name="linux-demo" target="8" />
       <module name="logback-demo" target="8" />
       <module name="mail-demo" target="8" />
       <module name="mybatis-plus-demo" target="8" />
       <module name="redis-demo" target="8" />
+      <module name="spring-application-demo" target="8" />
       <module name="spring-demo" target="17" />
       <module name="springboot-admin-client-demo" target="8" />
       <module name="springboot-admin-demo" target="8" />
@@ -50,12 +62,18 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actuator-demo" options="-parameters" />
       <module name="aop-demo" options="-parameters" />
+      <module name="auto-config-demo" options="-parameters" />
+      <module name="exception-demo" options="-parameters" />
+      <module name="filter-interceptor-demo" options="-parameters" />
+      <module name="hibernate-validator-demo" options="-parameters" />
+      <module name="ioc-demo" options="-parameters" />
       <module name="jackson-demo" options="-parameters" />
       <module name="linux-demo" options="-parameters" />
       <module name="logback-demo" options="-parameters" />
       <module name="mail-demo" options="-parameters" />
       <module name="mybatis-plus-demo" options="-parameters" />
       <module name="redis-demo" options="-parameters" />
+      <module name="spring-application-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
       <module name="springboot-admin-client-demo" options="-parameters" />
       <module name="springboot-admin-demo" options="-parameters" />

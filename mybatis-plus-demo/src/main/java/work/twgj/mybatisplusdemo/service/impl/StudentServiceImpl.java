@@ -1,5 +1,9 @@
 package work.twgj.mybatisplusdemo.service.impl;
 
+import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
+import com.baomidou.mybatisplus.core.toolkit.Wrappers;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Service;
 import work.twgj.mybatisplusdemo.entity.StudentEntity;
 import work.twgj.mybatisplusdemo.mapper.StudentMapper;
@@ -35,5 +39,16 @@ public class StudentServiceImpl implements StudentService {
     @Override
     public StudentEntity getStudentBySno(String sno) {
         return studentMapper.selectById(sno);
+    }
+
+    @Override
+    public Page<StudentEntity> pageList(String sno,Integer pageNo, Integer pageSize) {
+        Page<StudentEntity> page = new Page<>(pageNo,pageSize);
+        // 使用lambda查询的写法
+        LambdaQueryWrapper<StudentEntity> wrapper = Wrappers.lambdaQuery(StudentEntity.class);
+        if (StringUtils.isNotEmpty(sno)){
+            wrapper.like(StudentEntity::getSno,sno);
+        }
+        return studentMapper.selectPage(page,wrapper);
     }
 }
