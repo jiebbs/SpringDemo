@@ -28,6 +28,15 @@
         <option value="$PROJECT_DIR$/ioc-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-application-demo/pom.xml" />
         <option value="$PROJECT_DIR$/hibernate-validator-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/resolver-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/cross-origin-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/async-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-crud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro-demo/pom.xml" />
       </list>
     </option>
   </component>

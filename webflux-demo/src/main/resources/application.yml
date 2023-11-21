@@ -1,0 +1,11 @@
+server:
+  port: 9000
+    #spring-boot-start-web和spring-boot-start-webflux 不能出现在同一个项目当中
+    #server.servlet.context-path是spring-boot-start-web 中的配置，在spring-boot-start-webflux中是无效的
+  servlet:
+    context-path: /webflux-demo
+spring:
+  application:
+    name: webflux-demo
+  webflux:
+    base-path: /webflux-demo

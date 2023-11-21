@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test sse</title>
+</head>
+<body>
+</body>
+<script>
+    //  需要调用es.close()来关闭事件流，不然EventSource会在数据传输完毕会自动重连，这样就会不间断的调
+    var es = new EventSource("/webflux-demo/test/async/flux");
+    es.onmessage = function (evt) {
+        console.log(evt.data);
+        if (evt.data === "int value:4") {
+            es.close();
+        }
+    };
+</script>
+</html>

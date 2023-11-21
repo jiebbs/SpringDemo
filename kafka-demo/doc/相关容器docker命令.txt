@@ -1,0 +1,20 @@
+#zookeeper
+docker pull wurstmeister/zookeeper
+
+#zookeeper运行
+docker run -d --name zookeeper -p 2181:2181 wurstmeister/zookeeper
+
+#kafka
+docker pull wurstmeister/kafka
+
+#kafka运行
+docker run -d --name kafka -p 9092:9092 --link zookeeper:zookeeper --env KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181 --env KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092 --env KAFKA_LISTENERS=PLAINTEXT://0.0.0.0:9092 --env KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 wurstmeister/kafka
+
+#进入kafka容器
+docker exec -it kafka /bin/bash
+
+#创建一个topic
+kafka-topics.sh --create --topic test --partitions 1 --replication-factor 1 --zookeeper zookeeper:2181
+
+#消费消息
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning

@@ -3,17 +3,23 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/actuator-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aop-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/async-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/auto-config-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cross-origin-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/exception-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/filter-interceptor-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hibernate-validator-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ioc-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jackson-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/linux-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/logback-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mail-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mongo-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mybatis-plus-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/redis-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resolver-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shiro-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-application-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-admin-client-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-admin-demo/src/main/java" charset="UTF-8" />
@@ -21,6 +27,9 @@
     <file url="file://$PROJECT_DIR$/swagger3-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/testing-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/war-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-crud-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webflux-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/xss-demo/src/main/java" charset="UTF-8" />
   </component>
 </project>

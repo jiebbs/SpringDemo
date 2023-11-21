@@ -1,0 +1,12 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: webflux-crud-demo
+  webflux:
+    base-path: /webflux-crud-demo
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: webflux

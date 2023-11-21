@@ -1,0 +1,14 @@
+server:
+  servlet:
+    context-path: /mongo-demo
+  port: 9000
+
+spring:
+  application:
+    name: mongo-demo
+  #mongo 配置
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: test-db

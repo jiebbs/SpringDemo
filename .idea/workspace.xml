@@ -2,16 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4da88bb-2d8f-4a1e-937c-c0f567d6da7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_8_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_reactivestreams_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_owasp_encoder_encoder_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_reactive_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_kafka_spring_kafka_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resolver-demo/src/main/java/work/twgj/resolverdemo/config/WebConfigurer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/MybatisPlusDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/config/MyBatisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/StudentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo/src/main/java/work/twgj/mybatisplusdemo/service/impl/StudentServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +116,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,7 +151,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hibernate-validator-demo/src/main/java/work/twgj/hibernatevalidatordemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shiro-demo/src/main/java/work/twgj/shirodemo/config" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -69,37 +161,99 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="work.twgj.springapplicationdemo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\myproject\spring-demo\hibernate-validator-demo\src\main\java\work\twgj\hibernatevalidatordemo" />
-      <recent name="D:\myproject\spring-demo\spring-application-demo\doc" />
-      <recent name="D:\myproject\spring-demo\spring-application-demo\src\main\resources" />
-      <recent name="D:\myproject\spring-demo\filter-interceptor-demo\doc" />
-      <recent name="D:\myproject\spring-demo\linux-demo\doc" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="work.twgj.filterinterceptordemo.filter" />
-      <recent name="work.twgj.xssdemo.common" />
-      <recent name="work.twgj.springbootdevtoolsdemo.common" />
-      <recent name="work.twgj.maildemo.common" />
-      <recent name="work.twgj.actuatordemo.mybatisPlus" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\myproject\spring-demo\exception-demo\src\main\resources\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="work.twgj.crossorigindemo" />
+      <recent name="work.twgj.springapplicationdemo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="work.twgj.shirodemo.common" />
+      <recent name="work.twgj.shirodemo.mybatisPlus" />
+      <recent name="work.twgj.mongodemo.common" />
+      <recent name="work.twgj.kafkademo.common" />
+      <recent name="work.twgj.crossorigindemo.contoller.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myproject\spring-demo\shiro-demo\src\main\java\work\twgj\shirodemo\config" />
+      <recent name="D:\myproject\spring-demo\shiro-demo\doc" />
+      <recent name="D:\myproject\spring-demo\webflux-demo\doc" />
+      <recent name="D:\myproject\spring-demo\kafka-demo\doc" />
+      <recent name="D:\myproject\spring-demo\async-demo\doc" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.HibernateValidatorDemoApplication">
-    <configuration name="LocalGen (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="work.twgj.actuatordemo.mybatisPlus.LocalGen" />
-      <module name="actuator-demo" />
+  <component name="RunManager" selected="Spring Boot.ShiroDemoApplication">
+    <configuration name="LocalGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.twgj.shirodemo.mybatisPlus.LocalGen" />
+      <module name="shiro-demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="work.twgj.actuatordemo.mybatisPlus.*" />
+          <option name="PATTERN" value="work.twgj.shirodemo.mybatisPlus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.twgj.shirodemo.controller.LoginController" />
+      <module name="shiro-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.shirodemo.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonoFluxTest.flatMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webflux-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.webfluxdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="work.twgj.webfluxdemo" />
+      <option name="MAIN_CLASS_NAME" value="work.twgj.webfluxdemo.MonoFluxTest" />
+      <option name="METHOD_NAME" value="flatMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonoFluxTest.handleError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webflux-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.webfluxdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="work.twgj.webfluxdemo" />
+      <option name="MAIN_CLASS_NAME" value="work.twgj.webfluxdemo.MonoFluxTest" />
+      <option name="METHOD_NAME" value="handleError" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonoFluxTest.zipWith" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webflux-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.twgj.webfluxdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="work.twgj.webfluxdemo" />
+      <option name="MAIN_CLASS_NAME" value="work.twgj.webfluxdemo.MonoFluxTest" />
+      <option name="METHOD_NAME" value="zipWith" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,9 +272,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AsyncDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="async-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.asyncdemo.AsyncDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AutoConfigDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="auto-config-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.autoconfigdemo.AutoConfigDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrossOriginDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cross-origin-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.crossorigindemo.CrossOriginDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,6 +328,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KafkaDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.kafkademo.KafkaDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinuxDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="linux-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.linuxdemo.LinuxDemoApplication" />
@@ -181,6 +356,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MongoDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mongo-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.mongodemo.MongoDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MybatisPlusDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mybatis-plus-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.mybatisplusdemo.MybatisPlusDemoApplication" />
@@ -195,54 +377,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringApplicationDemoApplication$ApplicationResource (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-application-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+    <configuration name="ResolverDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="resolver-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.resolverdemo.ResolverDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringApplicationDemoApplication$ApplicationResource (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-application-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringApplicationDemoApplication$ApplicationResource (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-application-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringApplicationDemoApplication$ApplicationResource" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-application-demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="work.twgj.springapplicationdemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.springapplicationdemo.SpringApplicationDemoApplication$ApplicationResource" />
+    <configuration name="ShiroDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shiro-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.shirodemo.ShiroDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -310,6 +454,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebfluxCrudDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webflux-crud-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.webfluxcruddemo.WebfluxCrudDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebfluxDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webflux-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.webfluxdemo.WebfluxDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsocketDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="websocket-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.websocketdemo.WebsocketDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XssDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="xss-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="work.twgj.xssdemo.XssDemoApplication" />
@@ -319,11 +484,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (3)" />
-        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (2)" />
-        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource (1)" />
-        <item itemvalue="Spring Boot.SpringApplicationDemoApplication$ApplicationResource" />
-        <item itemvalue="Application.LocalGen (1)" />
+        <item itemvalue="Application.LoginController" />
+        <item itemvalue="Application.LocalGen" />
+        <item itemvalue="JUnit.MonoFluxTest.handleError" />
+        <item itemvalue="JUnit.MonoFluxTest.flatMap" />
+        <item itemvalue="JUnit.MonoFluxTest.zipWith" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +530,15 @@
       <workItem from="1699923810186" duration="2585000" />
       <workItem from="1700044089672" duration="53000" />
       <workItem from="1700100989746" duration="5060000" />
-      <workItem from="1700114790254" duration="3155000" />
+      <workItem from="1700114790254" duration="13488000" />
+      <workItem from="1700183035167" duration="5347000" />
+      <workItem from="1700206797764" duration="7720000" />
+      <workItem from="1700442215916" duration="8054000" />
+      <workItem from="1700460063205" duration="9069000" />
+      <workItem from="1700528660138" duration="2997000" />
+      <workItem from="1700534787080" duration="4280000" />
+      <workItem from="1700550574681" duration="8497000" />
+      <workItem from="1700561235940" duration="1929000" />
     </task>
     <servers />
   </component>
@@ -373,94 +546,94 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="168" key="#Project_Structure" timestamp="1698312809163">
+    <state x="446" y="168" key="#Project_Structure" timestamp="1700555254234">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="446" y="168" key="#Project_Structure/0.0.1707.1019@0.0.1707.1019" timestamp="1698312809163" />
+    <state x="446" y="168" key="#Project_Structure/0.0.1707.1019@0.0.1707.1019" timestamp="1700555254234" />
     <state x="93" y="93" width="1521" height="833" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1697618268970">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="93" y="93" width="1521" height="833" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1697618268970" />
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1700106330804">
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1700561414473">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1700106330804" />
-    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1700105526113">
+    <state x="659" y="219" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1019@0.0.1707.1019" timestamp="1700561414473" />
+    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1700124038499">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1700105526113" />
+    <state x="662" y="435" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1700124038499" />
     <state x="552" y="368" width="603" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1699498356530">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="552" y="368" width="603" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1707.1019@0.0.1707.1019" timestamp="1699498356530" />
-    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1700105527779">
+    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1700124039803">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1707.1019@0.0.1707.1019" timestamp="1700105527779" />
+    <state x="552" y="389" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1707.1019@0.0.1707.1019" timestamp="1700124039803" />
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1695889843114">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="584" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1695889843114" />
-    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1699933050519">
+    <state x="613" y="197" key="FileChooserDialogImpl" timestamp="1700560947355">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1699933050519" />
-    <state width="1663" height="399" key="GridCell.Tab.0.bottom" timestamp="1700118166734">
+    <state x="613" y="197" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1700560947355" />
+    <state width="1663" height="399" key="GridCell.Tab.0.bottom" timestamp="1700563164074">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.0.center" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164074" />
+    <state width="1663" height="399" key="GridCell.Tab.0.center" timestamp="1700563164074">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.0.left" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164074" />
+    <state width="1663" height="399" key="GridCell.Tab.0.left" timestamp="1700563164074">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.0.right" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164074" />
+    <state width="1663" height="399" key="GridCell.Tab.0.right" timestamp="1700563164074">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.1.bottom" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164074" />
+    <state width="1663" height="399" key="GridCell.Tab.1.bottom" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.1.center" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.1.center" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.1.left" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.1.left" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.1.right" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.1.right" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.2.bottom" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.2.bottom" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.2.center" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.2.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.2.center" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.2.left" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.2.center/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.2.left" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
-    <state width="1663" height="399" key="GridCell.Tab.2.right" timestamp="1700118166734">
+    <state width="1663" height="399" key="GridCell.Tab.2.left/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
+    <state width="1663" height="399" key="GridCell.Tab.2.right" timestamp="1700563164075">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state width="1663" height="399" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700118166734" />
+    <state width="1663" height="399" key="GridCell.Tab.2.right/0.0.1707.1019@0.0.1707.1019" timestamp="1700563164075" />
     <state x="441" y="175" key="Registry" timestamp="1698313413095">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="441" y="175" key="Registry/0.0.1707.1019@0.0.1707.1019" timestamp="1698313413095" />
-    <state x="334" y="84" key="SettingsEditor" timestamp="1698722580736">
+    <state x="334" y="84" key="SettingsEditor" timestamp="1700558135944">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1698722580736" />
+    <state x="334" y="84" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1700558135944" />
     <state x="575" y="251" width="540" height="524" key="StructurePopup" timestamp="1699512749994">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -469,10 +642,10 @@
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
     <state x="516" y="242" width="674" height="534" key="find.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1699516558042" />
-    <state x="241" y="211" key="new project wizard" timestamp="1700106864739">
+    <state x="241" y="211" key="new project wizard" timestamp="1700553480038">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
-    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1700106864739" />
+    <state x="241" y="211" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1700553480038" />
     <state x="516" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1700107112424">
       <screen x="0" y="0" width="1707" height="1019" />
     </state>
@@ -491,7 +664,15 @@
           <line>52</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/resolver-demo/src/main/java/work/twgj/resolverdemo/handler/PropertiesHandlerMethodReturnValueHandler.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_demo$ShiroDemoApplication.ic" NAME="ShiroDemoApplication Coverage Results" MODIFIED="1700561798689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
