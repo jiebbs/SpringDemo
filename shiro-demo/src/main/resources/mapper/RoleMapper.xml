@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="work.twgj.shirodemo.mapper.RoleMapper">
+    <resultMap id="BaseResultMap" type="work.twgj.shirodemo.entity.RoleEntity">
+        <id column="id" property="id" javaType="Long"/>
+        <result column="name" property="name" javaType="String"/>
+        <result column="memo" property="memo" javaType="String"/>
+    </resultMap>
+
+    <select id="findByUsername" resultMap="BaseResultMap">
+        select r.id,r.name,r.memo from t_role r
+        left join t_user_role ur on(r.id = ur.rid)
+        left join t_user u on(u.id = ur.uid)
+        where u.username = #{username}
+    </select>
+</mapper>

@@ -3,13 +3,15 @@ package work.twgj.shirodemo.entity;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
+
+import java.io.Serializable;
 import java.sql.Timestamp;
 import lombok.Getter;
 import lombok.Setter;
 
 /**
  * <p>
- * 
+ *  要使用cookies做rememberMe功能必须要实现Serializable
  * </p>
  *
  * @author weijie.zhu
@@ -18,7 +20,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @TableName("t_user")
-public class UserEntity {
+public class UserEntity implements Serializable {
 
     /**
      * 主键id

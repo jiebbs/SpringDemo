@@ -30,7 +30,8 @@ public class LocalGen {
     public static void main(String[] args) {
         // 要生成的数据库表名
         List<String> tableNames = Arrays.asList(
-            "t_user"
+//            "t_user",
+                "t_role","t_permission"
         );
         // 生成代码
         create(tableNames).execute();
@@ -61,7 +62,7 @@ public class LocalGen {
                             // 生成的mapper目录
                             .mapper("mapper")
                             // xml需要使用实际路径生成，如果使用xml()方法就不能生成在resources下了
-                            .pathInfo(Collections.singletonMap(OutputFile.xml,"D://myproject/spring-demo/shiro-demo/src/main/resources/mappers"));
+                            .pathInfo(Collections.singletonMap(OutputFile.xml,"D://myproject/spring-demo/shiro-demo/src/main/resources/mapper"));
                 }).strategyConfig(builder -> {
                     // 添加要生成的的数据库表
                     builder.addInclude(tableNames)

@@ -11,6 +11,9 @@ import org.mybatis.spring.mapper.MapperScannerConfigurer;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.PathResource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 
 import javax.sql.DataSource;
@@ -37,6 +40,10 @@ public class MyBatisConfig {
         MybatisConfiguration configuration = new MybatisConfiguration();
         configuration.addInterceptor(interceptor);
         sessionFactoryBean.setConfiguration(configuration);
+        // 配置xml映射地址
+        sessionFactoryBean.setMapperLocations(
+                new PathMatchingResourcePatternResolver()
+                        .getResources("classpath:mapper/*.xml"));
         return sessionFactoryBean.getObject();
     }
 

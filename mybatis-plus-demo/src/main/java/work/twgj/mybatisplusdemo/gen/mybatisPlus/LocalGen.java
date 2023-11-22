@@ -61,7 +61,7 @@ public class LocalGen {
                             // 生成的mapper目录
                             .mapper("mapper")
                             // xml需要使用实际路径生成，如果使用xml()方法就不能生成在resources下了
-                            .pathInfo(Collections.singletonMap(OutputFile.xml,"D://myproject/spring-demo/mybatis-plus-demo/src/main/resources/mappers"));
+                            .pathInfo(Collections.singletonMap(OutputFile.xml,"D://myproject/spring-demo/mybatis-plus-demo/src/main/resources/mapper"));
                 }).strategyConfig(builder -> {
                     // 添加要生成的的数据库表
                     builder.addInclude(tableNames)

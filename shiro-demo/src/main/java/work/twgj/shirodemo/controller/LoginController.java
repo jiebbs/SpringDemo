@@ -5,12 +5,14 @@ import cn.hutool.crypto.digest.MD5;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
+import org.apache.shiro.crypto.hash.Md5Hash;
 import org.apache.shiro.subject.Subject;
 import org.apache.tomcat.util.security.MD5Encoder;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 import work.twgj.shirodemo.common.ApiResponse;
 import work.twgj.shirodemo.entity.UserEntity;
 
@@ -31,11 +33,12 @@ public class LoginController {
     }
 
     @PostMapping("/login")
-    public ApiResponse login(String username,String password){
+    @ResponseBody
+    public ApiResponse login(String username,String password,Boolean rememberMe){
         log.info("用户{}登录...",username);
         // 密码进行MD5加密
         String md5Password = DigestUtil.md5Hex(password);
-        UsernamePasswordToken token = new UsernamePasswordToken(username,md5Password);
+        UsernamePasswordToken token = new UsernamePasswordToken(username,md5Password,rememberMe);
         // 获取subject
         Subject subject = SecurityUtils.getSubject();
         try{
@@ -67,5 +70,10 @@ public class LoginController {
         UserEntity userEntity = (UserEntity) SecurityUtils.getSubject().getPrincipal();
         model.addAttribute("user",userEntity);
         return "index";
+    }
+
+    @GetMapping("/403")
+    public String forbid(){
+        return "403";
     }
 }

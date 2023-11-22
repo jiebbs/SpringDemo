@@ -59,6 +59,18 @@
             <artifactId>shiro-spring</artifactId>
             <version>1.13.0</version>
         </dependency>
+        <!-- shiro缓存实现 -->
+        <dependency>
+            <groupId>org.crazycake</groupId>
+            <artifactId>shiro-redis</artifactId>
+            <version>3.3.1</version>
+        </dependency>
+        <!-- Thymeleaf中使用Shiro 第三方依赖 -->
+        <dependency>
+            <groupId>com.github.theborakompanioni</groupId>
+            <artifactId>thymeleaf-extras-shiro</artifactId>
+            <version>2.1.0</version>
+        </dependency>
 
         <!-- thymeleaf -->
         <dependency>
@@ -81,6 +93,10 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
         </dependency>
     </dependencies>
 
