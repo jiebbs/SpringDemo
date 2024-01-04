@@ -7,9 +7,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-admin-client-demo" />
         <module name="war-demo" />
         <module name="testing-demo" />
-        <module name="exception-demo" />
+        <module name="xss-demo" />
         <module name="ioc-demo" />
         <module name="websocket-demo" />
         <module name="actuator-demo" />
@@ -25,55 +26,56 @@
         <module name="async-demo" />
         <module name="auto-config-demo" />
         <module name="webflux-crud-demo" />
-        <module name="xss-demo" />
+        <module name="spring-security-demo" />
         <module name="swgger2-demo" />
         <module name="swagger2-demo" />
         <module name="shiro-demo" />
         <module name="springboot-admin-demo" />
         <module name="redis-demo" />
-        <module name="hibernate-validator-demo" />
         <module name="linux-demo" />
         <module name="aop-demo" />
+        <module name="exception-demo" />
         <module name="webflux-demo" />
         <module name="logback-demo" />
         <module name="spring-application-demo" />
-        <module name="springboot-admin-client-demo" />
+        <module name="hibernate-validator-demo" />
         <module name="mybatis-plus-demo" />
         <module name="cross-origin-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="actuator-demo" target="8" />
-      <module name="aop-demo" target="8" />
-      <module name="async-demo" target="8" />
-      <module name="auto-config-demo" target="8" />
-      <module name="cross-origin-demo" target="8" />
-      <module name="exception-demo" target="8" />
-      <module name="filter-interceptor-demo" target="8" />
-      <module name="hibernate-validator-demo" target="8" />
-      <module name="ioc-demo" target="8" />
-      <module name="jackson-demo" target="8" />
-      <module name="kafka-demo" target="8" />
-      <module name="linux-demo" target="8" />
-      <module name="logback-demo" target="8" />
-      <module name="mail-demo" target="8" />
-      <module name="mongo-demo" target="8" />
-      <module name="mybatis-plus-demo" target="8" />
-      <module name="redis-demo" target="8" />
-      <module name="resolver-demo" target="8" />
-      <module name="shiro-demo" target="8" />
-      <module name="spring-application-demo" target="8" />
-      <module name="spring-demo" target="17" />
-      <module name="springboot-admin-client-demo" target="8" />
-      <module name="springboot-admin-demo" target="8" />
-      <module name="springboot-devtools-demo" target="8" />
-      <module name="swagger3-demo" target="8" />
-      <module name="testing-demo" target="8" />
-      <module name="war-demo" target="8" />
-      <module name="webflux-crud-demo" target="8" />
-      <module name="webflux-demo" target="8" />
-      <module name="websocket-demo" target="8" />
-      <module name="xss-demo" target="8" />
+      <module name="actuator-demo" target="1.8" />
+      <module name="aop-demo" target="1.8" />
+      <module name="async-demo" target="1.8" />
+      <module name="auto-config-demo" target="1.8" />
+      <module name="cross-origin-demo" target="1.8" />
+      <module name="exception-demo" target="1.8" />
+      <module name="filter-interceptor-demo" target="1.8" />
+      <module name="hibernate-validator-demo" target="1.8" />
+      <module name="ioc-demo" target="1.8" />
+      <module name="jackson-demo" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="linux-demo" target="1.8" />
+      <module name="logback-demo" target="1.8" />
+      <module name="mail-demo" target="1.8" />
+      <module name="mongo-demo" target="1.8" />
+      <module name="mybatis-plus-demo" target="1.8" />
+      <module name="redis-demo" target="1.8" />
+      <module name="resolver-demo" target="1.8" />
+      <module name="shiro-demo" target="1.8" />
+      <module name="spring-application-demo" target="1.8" />
+      <module name="spring-demo" target="1.8" />
+      <module name="spring-security-demo" target="1.8" />
+      <module name="springboot-admin-client-demo" target="1.8" />
+      <module name="springboot-admin-demo" target="1.8" />
+      <module name="springboot-devtools-demo" target="1.8" />
+      <module name="swagger3-demo" target="1.8" />
+      <module name="testing-demo" target="1.8" />
+      <module name="war-demo" target="1.8" />
+      <module name="webflux-crud-demo" target="1.8" />
+      <module name="webflux-demo" target="1.8" />
+      <module name="websocket-demo" target="1.8" />
+      <module name="xss-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -99,6 +101,7 @@
       <module name="shiro-demo" options="-parameters" />
       <module name="spring-application-demo" options="-parameters" />
       <module name="spring-demo" options="-parameters" />
+      <module name="spring-security-demo" options="-parameters" />
       <module name="springboot-admin-client-demo" options="-parameters" />
       <module name="springboot-admin-demo" options="-parameters" />
       <module name="springboot-devtools-demo" options="-parameters" />

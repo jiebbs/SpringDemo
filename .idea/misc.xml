@@ -37,6 +37,7 @@
         <option value="$PROJECT_DIR$/webflux-crud-demo/pom.xml" />
         <option value="$PROJECT_DIR$/websocket-demo/pom.xml" />
         <option value="$PROJECT_DIR$/shiro-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-security-demo/pom.xml" />
       </list>
     </option>
   </component>

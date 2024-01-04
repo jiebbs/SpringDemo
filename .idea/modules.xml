@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/shiro-demo/shiro-demo.iml" filepath="$PROJECT_DIR$/shiro-demo/shiro-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-application-demo/spring-application-demo.iml" filepath="$PROJECT_DIR$/spring-application-demo/spring-application-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" filepath="$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-client-demo/springboot-admin-client-demo.iml" filepath="$PROJECT_DIR$/springboot-admin-client-demo/springboot-admin-client-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-demo/springboot-admin-demo.iml" filepath="$PROJECT_DIR$/springboot-admin-demo/springboot-admin-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-devtools-demo/springboot-devtools-demo.iml" filepath="$PROJECT_DIR$/springboot-devtools-demo/springboot-devtools-demo.iml" />
